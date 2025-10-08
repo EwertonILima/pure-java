@@ -17,6 +17,7 @@ Each folder contains an isolated mini project.
 | Project Name        | Description                                                |
 |---------------------|------------------------------------------------------------|
 | [`endpointJava`](./endpointJava) | Simulates an HTTP server using plain Java with manual request handling. |
+| [`multithreading`](./multithreading) | Step-by-step examples covering Java's multithreading concepts and APIs. |
 
 ## 🚧 In Progress
 
