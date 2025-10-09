@@ -1,13 +1,13 @@
 # ☕ pure-java
 
-This repository is dedicated to learning, practicing, and experimenting with core Java concepts — without relying on frameworks like Spring.
+This repository is dedicated to learning, practicing, and experimenting with core Java concepts, without relying on frameworks like Spring.
 
 ## 📚 Purpose
 
 To build a collection of small self-contained projects that:
 
 - Reinforce foundational Java knowledge
-- Explore networking, file I/O, JSON processing, and other core features
+- Explore networking, file I/O, JSON processing, multithreading, and other core features
 - Simulate backend behaviors using only standard Java libraries
 
 ## 📁 Structure
